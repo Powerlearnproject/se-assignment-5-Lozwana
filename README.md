@@ -9,12 +9,25 @@ Answer the following questions based on your understanding of the installation a
 
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
+   On a windows 11 oparating system you go to the browser and type download visual studion code.
 
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
-
+   After downloading, we install on the app we download extentions like prettier, code runner and github.
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
+
+   Activity bar:
+   The purpose of the is to provide a quick access to different views and panels in VS Code.
+
+   Side bar:
+   The side bar is located on the left of the editor group and contains different views that help you navigate and manage your project.
+
+   Editor group:
+   This is where you edit code. It consist of one or more editor tabs that can be split.
+   
+   Status bar:
+   located at the bottom of the window. Status bar provides quick infomation and quick access to various features.
 
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
